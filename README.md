@@ -1,4 +1,4 @@
-
+![logo](https://i0.wp.com/datapdx.org/wp-content/uploads/2022/03/Data-Catalog.jpg?resize=1024%2C717&ssl=1)
 <h1 align="center">Hi 👋, I'm Mayuresh Dhakad</h1>
 <h3 align="center">A passionate Python Backend Developer and Data Scientist from India</h3>
 
